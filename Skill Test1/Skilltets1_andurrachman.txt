@@ -1,0 +1,4 @@
+nama    : adbdurrachman farras
+umur    : 20
+stack   : Frontend
+bahasa pemprograman : C#, dart, python
