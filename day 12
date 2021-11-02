@@ -1,0 +1,15 @@
+ctr + c = copy
+ctr + v = paste
+ctr + p = file 
+ctr + o = open
+ctr + z = undo
+ctr + y = ando
+ctr + shift + p = add file
+ctrl + n = new file
+ctrl + tab = slide 
+tab = auto correc
+ctr + a = all block
+ctr + s = save
+ctr + r = change file github
+ctr + x = cut
+ctr + f = finding
